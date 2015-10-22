@@ -1,12 +1,12 @@
-![logo](activity-data/images/chef-man.jpg)
+![logo](activity-data/images/phone.png)
 
-# Web Chef Activity
+# Story of Us Activity
 
-Learners will race to sequence the paper boxes labeled with HTML tags, **becoming familiar with the most common HTML tags and how to structure a web page**.
+Learners will learn how to tell their Story of Self, use it to reflect on what they have learned, the role of learning socially, and how they want to learn and participate on the web and with their community going forward. And using and sharing files in open, web-friendly formats when appropriate
 
 It lasts about 1-2 hour.
 
-You can [view this activity online](http://mozilla.github.io/mozilla-club-activity-web-chef).
+You can [view this activity online](http://mozilla.github.io/mozilla-club-activity-story-of-us).
 
 ---
 
