@@ -1,4 +1,5 @@
 [
+  {"name": "Bengali", "code": "bn"},
   {"name": "English", "code": "en"},
-  {"name": "Bengali", "code": "bn"}
+  {"name": "German", "code": "de"}
 ]
