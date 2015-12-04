@@ -13,7 +13,7 @@ competencies:
 
 Hecho por [Mozilla](https://webmaker.org/mentor) para Clubs, basado en un proyecto de [WNYC Radio Rookies](https://radiorookies.makes.org/thimble/diy-toolkit-how-to-report-your-own-story). 
 
-Los aprendices aprenderán cómo contar sus historias personales, usarlas para reflejar que han aprendido, el rol social del aprendizaje y cómo quieren aprender y participar en la web y con su comunidad en un futuro. Y usar y compartir archivos en formatos abiertos y amigables con la web cuando sea apropiado.
+Los aprendices aprenderán cómo contar sus historias personales, usarlas para reflejar que han aprendido, el rol social del aprendizaje y cómo quieren aprender y participar en la web y con su comunidad en un futuro. Y a usar y compartir archivos en formatos abiertos y amigables con la web cuando sea apropiado.
 
 1-2 horas
 
@@ -36,11 +36,11 @@ Introduce la sesión diciendo que ellos **construirán sobre lo que han aprendid
 >
 > * **Yo.** Empieza tu historia con quien eres. Esto ayuda a tu audiencia a entender tu perspectiva y el fondo de tu historia en tu voz y experiencia. Enfócate en un aspecto de tu vida donde enfrentaste un desafío e hiciste una elección. Por ejemplo, ¿por qué decidiste venir a este grupo?
 >
-> * **Nosotros.** Una  historia efectiva une tu perspectiva personal con tu audiencia. EN esta parte, explica por qué tu historia es relevante para tu audiencia. ¿Qué desafíos y elecciones les esperan? Por ejemplo, como un grupo, ¿qué obstáculos enfrentarán después de hoy, y qué elecciones tendrán que hacer como respuesta? ¿Continuarán encontrándose y aprendiendo juntos? ¿Cómo se vera eso?
+> * **Nosotros.** Una  historia efectiva une tu perspectiva personal con tu audiencia. En esta parte, explica por qué tu historia es relevante para tu audiencia. ¿Qué desafíos y elecciones les esperan? Por ejemplo, como un grupo, ¿qué obstáculos enfrentarán después de hoy, y qué elecciones tendrán que hacer como respuesta? ¿Continuarán encontrándose y aprendiendo juntos? ¿Cómo se verá eso?
 >
 > * **Ahora.** Quieres que tu audiencia se vaya sintiendo que pueden ser parte, y que saben que hacer. Presenta tu idea de cual es la oportunidad en este momento. Por ejemplo, ¿crees que el grupo debiera continuar reuniéndose cada mes? ¿Quieres mantenerte en contacto en línea? Entrega pasos concretos de lo siguiente a realizar.
 
-Si el tiempo lo permite, mira este breve video animato para escuchar al reportero de Radio Rookies Alexis Gordon explicar las bases de reportar una buena historia personal.
+Si el tiempo lo permite, mira este breve video animado para escuchar al reportero de Radio Rookies Alexis Gordon explicar las bases de reportar una buena historia personal.
 
 <iframe src="https://www.youtube.com/embed/BTtbkgO70-E" allowfullscreen="" frameborder="0" height="315" width="420"></iframe>
 
