@@ -2,6 +2,7 @@
   {"name": "Bengali", "code": "bn"},
   {"name": "English", "code": "en"},
   {"name": "German", "code": "de"},
+    {"name": "Hindi", "code": "hi"},
   {"name": "Español", "code": "es"},
   {"name": "Português", "code": "pt"}
 ]
