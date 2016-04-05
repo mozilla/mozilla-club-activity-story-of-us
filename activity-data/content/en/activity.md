@@ -2,9 +2,16 @@
 title: Story of Us
 github: mozilla/mozilla-club-activity-story-of-us
 image: phone.png
+competencies_label: Web Literacy Skills
 competencies:
-    - {label: "Community Participation", type: "community-participation"}
-    - {label: "Collaborating", type: "collaborating"}
+    - {label: "Compose", type: "compose"}
+    - {label: "Connect", type: "connect"}
+    - {label: "Share", type: "share"}
+skills_label: 21st Century Skills
+skills:
+    - {label: "Communication", type: "communication"}
+    - {label: "Creativity", type: "creativity"}
+    - {label: "Collaboration", type: "collaboration"}
 ---
 
 ## [Section 3. Participating on the Web](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/)
