@@ -117,7 +117,7 @@ This template has a main content area (content from `activity.md`) and a little 
 Tweak your content until you're happy. Remember that you can keep pushing new revisions of it to your github repo so don't be afraid to experiment.
 
 ### Important stuff about `activity.md`
-There is some magic happening on `activity.md` that is beyond the normal markdown syntax. First as you can see on the [top of the file](https://raw.githubusercontent.com/RioMozillaClub/activity-template/gh-pages/data/activity.md) there is a little header:
+There is some magic happening on `activity.md` that is beyond the normal markdown syntax. First as you can see on the [top of the file](https://raw.githubusercontent.com/RioMozillaClub/activity-template/gh-pages/activity-data/content/en/activity.md) there is a little header:
 
 ```
 ---
